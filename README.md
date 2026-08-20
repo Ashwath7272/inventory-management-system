@@ -176,7 +176,11 @@ Possible future improvements include:
 
 ## Demo
 
-A demo video will demonstrate:
+A complete demonstration of the Inventory Management System is available below.
+
+[Watch the Demo Video](https://youtu.be/VL9lRB44Jgk)
+
+The demo covers:
 
 1. Adding a product
 2. Viewing products
